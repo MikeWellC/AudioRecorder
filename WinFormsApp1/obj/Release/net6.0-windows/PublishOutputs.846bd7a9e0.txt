@@ -1,0 +1,15 @@
+C:\Users\Mike\Desktop\audio\WinFormsApp1\bin\Release\net6.0-windows\publish\WinFormsApp1.exe
+C:\Users\Mike\Desktop\audio\WinFormsApp1\bin\Release\net6.0-windows\publish\libmp3lame.32.dll
+C:\Users\Mike\Desktop\audio\WinFormsApp1\bin\Release\net6.0-windows\publish\libmp3lame.64.dll
+C:\Users\Mike\Desktop\audio\WinFormsApp1\bin\Release\net6.0-windows\publish\WinFormsApp1.dll
+C:\Users\Mike\Desktop\audio\WinFormsApp1\bin\Release\net6.0-windows\publish\WinFormsApp1.deps.json
+C:\Users\Mike\Desktop\audio\WinFormsApp1\bin\Release\net6.0-windows\publish\WinFormsApp1.runtimeconfig.json
+C:\Users\Mike\Desktop\audio\WinFormsApp1\bin\Release\net6.0-windows\publish\WinFormsApp1.pdb
+C:\Users\Mike\Desktop\audio\WinFormsApp1\bin\Release\net6.0-windows\publish\NAudio.dll
+C:\Users\Mike\Desktop\audio\WinFormsApp1\bin\Release\net6.0-windows\publish\NAudio.Asio.dll
+C:\Users\Mike\Desktop\audio\WinFormsApp1\bin\Release\net6.0-windows\publish\NAudio.Core.dll
+C:\Users\Mike\Desktop\audio\WinFormsApp1\bin\Release\net6.0-windows\publish\NAudio.Lame.dll
+C:\Users\Mike\Desktop\audio\WinFormsApp1\bin\Release\net6.0-windows\publish\NAudio.Midi.dll
+C:\Users\Mike\Desktop\audio\WinFormsApp1\bin\Release\net6.0-windows\publish\NAudio.Wasapi.dll
+C:\Users\Mike\Desktop\audio\WinFormsApp1\bin\Release\net6.0-windows\publish\NAudio.WinForms.dll
+C:\Users\Mike\Desktop\audio\WinFormsApp1\bin\Release\net6.0-windows\publish\NAudio.WinMM.dll
